@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1596,
     "timeDay": 525,
-    "timeWeek": 2971,
+    "timeWeek": 1654,
     "timeMonth": 1596,
     "timeYear": 1596,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://scratch.auth.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/scratch.auth.onedot.cf",
     "slug": "scratch-comment-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
