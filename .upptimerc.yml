@@ -4,15 +4,15 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-    - name: OneAuth
+    - name: 1Auth
       url: https://auth.onedot.cf
-    - name: OneCdn
+    - name: 1CDN
       url: https://cdn.onedot.cf
     - name: OneDot
       url: https://onedot.cf
     - name: Scratch Comment Auth
       url: https://scratch.auth.onedot.cf
-    - name: OneState
+    - name: 1State
       url: https://state.onedot.cf
 
 status-website:
