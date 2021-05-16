@@ -4,32 +4,32 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: OneAuth
-    url: https://auth.onedot.cf
-  - name: OneCdn
-    url: https://cdn.onedot.cf    
-  - name: OneDot
-    url: https://onedot.cf
-  - name: Scratch Comment Auth
-    url: https://scratch.auth.onedot.cf
-  - name: OneState
-    url: https://state.onedot.cf
-    
+    - name: OneAuth
+      url: https://auth.onedot.cf
+    - name: OneCdn
+      url: https://cdn.onedot.cf
+    - name: OneDot
+      url: https://onedot.cf
+    - name: Scratch Comment Auth
+      url: https://scratch.auth.onedot.cf
+    - name: OneState
+      url: https://state.onedot.cf
+
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.onedot.cf
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://avatars.githubusercontent.com/u/81532635?s=200&v=4
-  name: OneDot
-  introTitle: null
-  introMessage: null
-  navbar:
-    - title: Status
-      href: /
+    # Add your custom domain below, or remove the next line if you don't have a domain
+    cname: status.onedot.cf
+    # Uncomment the following line if you don't have a custom domain and add your repo name
+    # baseUrl: /upptime
+    logoUrl: https://avatars.githubusercontent.com/u/81532635?s=200&v=4
+    name: OneDot
+    introTitle: null
+    introMessage: null
+    navbar:
+        - title: Status
+          href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 commitMessages:
-  commitAuthorName: "wgytbot"
-  commitAuthorEmail: "83586655+wgytbot@users.noreply.github.com"
+    commitAuthorName: "wgytbot"
+    commitAuthorEmail: "83586655+wgytbot@users.noreply.github.com"
