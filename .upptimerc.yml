@@ -8,7 +8,7 @@ sites:
       url: https://auth.onedot.cf
     - name: 1CDN
       url: https://cdn.onedot.cf
-    - name: OneDot
+    - name: 1Dot
       url: https://onedot.cf
     - name: Scratch Comment Auth
       url: https://scratch.auth.onedot.cf
