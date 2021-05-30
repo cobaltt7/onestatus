@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 4574,
     "timeDay": 442,
-    "timeWeek": 4478,
+    "timeWeek": 4672,
     "timeMonth": 4574,
     "timeYear": 4574,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://cdn.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/cdn.onedot.cf",
     "slug": "1-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
