@@ -76,17 +76,17 @@
     "url": "https://state.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/state.onedot.cf",
     "slug": "1-state",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 315,
-    "timeWeek": 927,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "time": 578,
+    "timeDay": 337,
+    "timeWeek": 879,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   }
 ]
