@@ -13,7 +13,7 @@
     "time": 5025,
     "timeDay": 0,
     "timeWeek": 2018,
-    "timeMonth": 4769,
+    "timeMonth": 4686,
     "timeYear": 5025,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://cdn.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/cdn.onedot.cf",
     "slug": "1-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
