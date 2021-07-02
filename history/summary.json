@@ -22,7 +22,7 @@
     "url": "https://cdn.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/cdn.onedot.cf",
     "slug": "1-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1977,
     "timeDay": 992,
-    "timeWeek": 3274,
+    "timeWeek": 1778,
     "timeMonth": 2460,
     "timeYear": 1977,
     "dailyMinutesDown": {}
