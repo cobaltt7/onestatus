@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4807,
-    "timeDay": 609,
+    "timeDay": 852,
     "timeWeek": 2656,
-    "timeMonth": 4686,
+    "timeMonth": 3812,
     "timeYear": 4807,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://cdn.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/cdn.onedot.cf",
     "slug": "1-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,7 +85,7 @@
     "time": 839,
     "timeDay": 3552,
     "timeWeek": 738,
-    "timeMonth": 1010,
+    "timeMonth": 1029,
     "timeYear": 839,
     "dailyMinutesDown": {}
   }
