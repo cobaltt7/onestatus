@@ -1,6 +1,6 @@
 [
   {
-    "name": "1Auth",
+    "name": "OneAuth",
     "url": "https://auth.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/auth.onedot.cf",
     "slug": "1-auth",
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "1CDN",
+    "name": "OneCDN",
     "url": "https://cdn.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/cdn.onedot.cf",
     "slug": "1-cdn",
@@ -36,7 +36,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "1Dot",
+    "name": "OneDot Projects",
     "url": "https://onedot.cf",
     "icon": "https://favicons.githubusercontent.com/onedot.cf",
     "slug": "1-dot",
@@ -72,7 +72,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "1State",
+    "name": "OneState",
     "url": "https://state.onedot.cf",
     "icon": "https://favicons.githubusercontent.com/state.onedot.cf",
     "slug": "1-state",
