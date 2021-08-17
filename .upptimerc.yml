@@ -14,6 +14,8 @@ sites:
       url: https://scratch.auth.onedot.cf
     - name: OneState
       url: https://state.onedot.cf
+    - name: 1host
+      url: https://1host.js.org
 
 status-website:
     # Add your custom domain below, or remove the next line if you don't have a domain
