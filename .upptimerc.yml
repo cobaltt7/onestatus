@@ -4,15 +4,15 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-    - name: 1Auth
+    - name: OneAuth
       url: https://auth.onedot.cf
-    - name: 1CDN
+    - name: OneCDN
       url: https://cdn.onedot.cf
-    - name: 1Dot
+    - name: OneDot Projects
       url: https://onedot.cf
     - name: Scratch Comment Auth
       url: https://scratch.auth.onedot.cf
-    - name: 1State
+    - name: OneState
       url: https://state.onedot.cf
 
 status-website:
@@ -21,7 +21,7 @@ status-website:
     # Uncomment the following line if you don't have a custom domain and add your repo name
     # baseUrl: /upptime
     logoUrl: https://avatars.githubusercontent.com/u/81532635?s=200&v=4
-    name: OneDot
+    name: OneDot Projects Status
     introTitle: null
     introMessage: null
     navbar:
