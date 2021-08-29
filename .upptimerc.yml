@@ -4,18 +4,18 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-    - name: OneAuth
-      url: https://auth.onedot.cf
-    - name: OneCDN
-      url: https://cdn.onedot.cf
     - name: OneDot
-      url: https://onedot.cf
-    - name: Scratch Comment Auth
-      url: https://scratch.auth.onedot.cf
+      url: https://onedot.cf/
+    - name: OneAuth
+      url: https://auth.onedot.cf/
+    - name: OneCDN
+      url: https://cdn.onedot.cf/
     - name: OneState
-      url: https://state.onedot.cf
+      url: https://state.onedot.cf/
+    - name: OneStatus
+      url: http://status.onedot.cf/
     - name: 1host
-      url: https://1host.js.org
+      url: https://1host.js.org/
 
 status-website:
     # Add your custom domain below, or remove the next line if you don't have a domain
